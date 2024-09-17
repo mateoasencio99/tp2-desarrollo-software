@@ -1,0 +1,33 @@
+.advanced-settings {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .advanced-settings h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-check {
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-check-input {
+    cursor: pointer;
+    margin-right: 0.5rem;
+  }
+  
+  .form-check-label {
+    cursor: pointer;
+    margin-bottom: 0;
+  }
+  
